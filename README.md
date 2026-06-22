@@ -2,7 +2,6 @@
 
 An interactive Unity game demonstrating the **Shepard Tone** — a psychological auditory illusion where a tone appears to infinitely ascend or descend in pitch without actually getting higher or lower.
 
----
 
 ## 📁 Project Structure
 
@@ -16,7 +15,6 @@ Shepard_tone_Unity_game/
 └── depth_illusion_pyvideo/             # Depth illusion animation (Manim)
     └── Output: gemini/media/videos/perspective/480p15/PerspectiveFirstPrinciples.mp4
 
----
 
 ## 🎮 Getting Started
 
