@@ -5,15 +5,16 @@ An interactive Unity game demonstrating the **Shepard Tone** — a psychological
 ---
 
 ## 📁 Project Structure
+
 Shepard_tone_Unity_game/
-├── mario_like_game/          # Main Unity game project
-│   ├── shepard_illusion_game/      # 🎮 Open in Unity Hub (import this folder)
-│   └── unity-super-mario-tutorial-main/  # Base tutorial repository
+├── mario_like_game/                    # Main Unity game project
+│   ├── shepard_illusion_game/          # 🎮 Open in Unity Hub (import this folder)
+│   └── unity-super-mario-tutorial-main/ # Base tutorial repository
 │       └── Source: https://github.com/zigurous/unity-super-mario-tutorial
-├── shepard/                    # Audio theory visualization scripts
+├── shepard/                            # Audio theory visualization scripts
 │   └── Code for generating 4 auditory theory explanation figures
-└── depth_illusion_pyvideo/   # Depth illusion animation (Manim)
-└── Output: gemini/media/videos/perspective/480p15/PerspectiveFirstPrinciples.mp4
+└── depth_illusion_pyvideo/             # Depth illusion animation (Manim)
+    └── Output: gemini/media/videos/perspective/480p15/PerspectiveFirstPrinciples.mp4
 
 ---
 
