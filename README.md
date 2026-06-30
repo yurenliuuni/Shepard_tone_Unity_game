@@ -14,8 +14,9 @@ Directory	Description
 
 ## 🎮 Getting Started
 
-### quick demo exe file
-https://drive.google.com/drive/folders/1rqts8llK2B0XhYLbt5Fr4uB7OrUT6MbY?usp=drive_link
+### quick demo and design explanation 
+- [Youtube demo and design philosophy sharing]( https://www.youtube.com/watch?v=zYfuDggErcY)
+- [Pure Game Experience Demo](https://www.youtube.com/watch?v=dWJ-1-zhw2k)
 
 ### Prerequisites
 - [Unity Hub](https://unity.com/download) (2022.3 LTS or later recommended)
