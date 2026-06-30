@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/a0/Downloads/shepard/gemini/media/videos/shepard_tone/480p15/partial_movie_files/ShepardToneMechanism/1584795214_784901678_2473465431.mp4'
+file 'file:/Users/a0/Downloads/shepard/gemini/media/videos/shepard_tone/480p15/partial_movie_files/ShepardToneMechanism/4072820271_4020216972_2354166271.mp4'
+file 'file:/Users/a0/Downloads/shepard/gemini/media/videos/shepard_tone/480p15/partial_movie_files/ShepardToneMechanism/4072820271_4020216972_3197787108.mp4'
+file 'file:/Users/a0/Downloads/shepard/gemini/media/videos/shepard_tone/480p15/partial_movie_files/ShepardToneMechanism/4072820271_4071516364_905865200.mp4'
